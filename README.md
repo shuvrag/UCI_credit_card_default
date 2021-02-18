@@ -6,4 +6,4 @@ The data is obtained from an "important bank in Taiwan" of their credit card hol
 
 The data was originally studied by the authors of the paper: Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Systems with Applications, 36(2), 2473-2480.
 
-I initially perform some EDA to understand the data and clean the data, engineer features, build predictive models to predict default and perform some statistical analyses to obtain a greater understanding of the features and their interactions.
+I initially perform some EDA to understand the data and clean the data, engineer relevant features, build predictive models to predict default and perform some statistical analyses to obtain a greater understanding of the features and their interactions.
